@@ -7,7 +7,7 @@
 ## Project Overview
 
 
-The purpose of this project is to determine whether it rains more in Seattle or Minneapolis. For this, I will use data from the NOAA's Climate Data Online Search tool. 
+The purpose of this project is to determine whether it rains more in Seattle or Minneapolis. For this, we will use data from the NOAA's Climate Data Online Search tool. 
 
 - **Objective:** Clearly state the main goal of the project.
 - **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
